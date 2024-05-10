@@ -1,0 +1,12 @@
+.box {
+    background-color: 
+    rgba(249, 223, 223, 1);
+    width: 550px;
+    height: 550px;
+    border: 1px solid;
+       padding-top: 80px;
+       padding-left: 103px;
+       color: red;
+    }
+
+}
